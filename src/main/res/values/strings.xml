@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Evie</string>
+    <string name="dbnode_users">users</string>
+    <string name="dbnone_descriptions">events</string>
+    <string name="phone_field">phone</string>
+    <string name="name_field">name</string>
+    <string name="user_id_field">user_id</string>
+    <string name="dialog_change_photo">ChangePhotoDialog</string>
+    <string name="field_profile_image">profile_picture</string>
+    <string name="field_event_description">event_image_description</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="event_id_field">event_id</string>
+    <string name="intent_event">intent_event</string>
+    <string name="dialog_delete_event">DeleteEventDialog</string>
+    <string name="dialog_delete_image">DeleteImageDialog</string>
+    <string name="image_id_field">image_id</string>
+    <string name="field_event_images">images</string>
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyBIP2ITSxDmyiF83JtouBD7vdsNhOaKtNM</string>
+
+</resources>
