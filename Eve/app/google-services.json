@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "785533430351",
+    "firebase_url": "https://evie-c93ca.firebaseio.com",
+    "project_id": "evie-c93ca",
+    "storage_bucket": "evie-c93ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785533430351:android:db90c22d7a74fb91c9983a",
+        "android_client_info": {
+          "package_name": "com.pluralsight.courses"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785533430351-n7nvi2gptf96sgrt18n5a40rfh7do48m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmv_24botKgY04VJ_vI0y_fb3lLa5CCrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785533430351-n7nvi2gptf96sgrt18n5a40rfh7do48m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

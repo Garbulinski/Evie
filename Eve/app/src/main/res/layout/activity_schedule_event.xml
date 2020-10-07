@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".ScheduleEventActivity"
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp">
+    <ImageView
+        android:id="@+id/event_description"
+        android:layout_width="360dp"
+        android:layout_height="360dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/ic_android"
+        />
+
+    <EditText
+        android:id="@+id/scheduledEvent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Future Event Name"
+        android:layout_marginTop="20dp"
+         />
+
+    <EditText
+        android:id="@+id/detailsscheduledEvent"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:hint="Details"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tv_date"
+        android:text="Select Date"
+        android:layout_marginTop="20dp"
+        android:textSize="20sp"/>
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Pick Adress"
+            android:id="@+id/picker"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Schedule Event"
+
+        android:layout_marginTop="20dp"
+        android:id="@+id/AddEvent"/>
+    </LinearLayout>
+</ScrollView>
